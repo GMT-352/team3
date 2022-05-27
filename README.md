@@ -30,3 +30,4 @@ create extension postgis;
  https://dashboard.heroku.com/apps/planetzoe
  
  Neslihan GÖZMEN 21833149
+ Nilüfer BAYRAMOĞLU 21832966

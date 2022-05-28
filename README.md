@@ -27,7 +27,7 @@ create extension postgis;
  CONSTRAINT star_pkey PRIMARY KEY (id);
  
  https://addons-sso.heroku.com/apps/141a93b1-e4f7-4417-8944-5f0b91ab224b/addons/8c469d03-20bb-4923-b132-8e3f99920a7a
- https://dashboard.heroku.com/apps/planetzoe
+ 
  
  Neslihan GÖZMEN 21833149
  Nilüfer BAYRAMOĞLU 21832966
